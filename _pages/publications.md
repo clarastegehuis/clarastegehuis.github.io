@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+You can also find my articles on [my Google scholar profile](https://scholar.google.com/citations?user=u0rkSl0AAAAJ&hl=en}).
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}

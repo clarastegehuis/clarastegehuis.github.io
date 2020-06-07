@@ -53,14 +53,16 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+
+
+/*$body-color                 : #fff;*/
+/*$background-color           : #fff;*/
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+/*$text-color                 : $dark-gray;*/
+/*$border-color               : $lighter-gray;/*
 
-$primary-color              : #7a8288;
+/*$primary-color              : #7a8288;*/
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -88,13 +90,36 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
+/* Colors */
+$background-color: #f3f6f6;
+$body-color: #f3f6f6;
+$text-color: #40514e;
+$muted-text-color: #40514e;
+$primary-color: #11999e;
+$border-color: mix(#fff, #40514e, 75%);
+$footer-background-color: #30e3ca;
+$link-color: #11999e;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: $text-color;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%);
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
 
 /* links */
-$link-color                 : $info-color;
+/*$link-color                 : $info-color;*/
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+/*$masthead-link-color        : $primary-color;*/
+/*$masthead-link-color-hover  : mix(#000, $primary-color, 25%);/*
+
+
 
 
 /*
