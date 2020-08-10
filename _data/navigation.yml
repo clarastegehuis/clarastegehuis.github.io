@@ -1,13 +1,14 @@
 # main links links
 main:
- - title: "Publications"
+  - title: "Publications"
     url: /publications/
- 
- - title: "PhD position"
-    url: /positions/   
 
- - title: "Outreach"
-    url: /outreach/    
-   
- - title: "Short CV"
+  - title: "Outreach"
+    url: /outreach/     
+       
+  - title: "PhD position"
+    url: /positions/
+    
+  - title: "Short CV"
     url: /cv/
+
