@@ -1,0 +1,11 @@
+---
+title: "Contact tracing in configuration models"
+collection: publications
+permalink: /publication/Contact-tracing-in-configuration-models 
+authors:   Ivan Kryven, Clara  Stegehuis
+date: 2020-01-01
+venue: 'to be published in Journal of Physics: Complexity'
+paperurl: 'https://arxiv.org/pdf/2010.05590.pdf'
+citation: 'Ivan Kryven, Clara  Stegehuis,  Journal of Physics: Complexity, 2020.'
+---
+[Access paper here](https://arxiv.org/pdf/2010.05590.pdf){:target="_blank"}

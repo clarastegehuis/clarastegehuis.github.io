@@ -28,7 +28,12 @@ Selection of recent presentations
 * Mark Kac seminar, Utrecht, 2018
 * Network models: structure and function workshop, Oberwolfach, Germany, 2017
   
-
+Grants and awards
+----
+* NWO Veni grant (250.000 euro) for research on 'understanding subgraph patterns in high-dimensional networks', 2020
+* Netsci NL Young Talent prize, 2020
+* Professor de Winter prize, 2020
+* KWG PhD prize, 2018
   
 Other activities
 ----
