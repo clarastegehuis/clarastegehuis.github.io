@@ -27,6 +27,6 @@ Interestingly, in many random graph models, subgraphs concentrate on a small set
 ### Asymptotic network properties
 Real-world networks are often very large. I am interested in investigating what happens to structural network properties in the large-network limit, such as degree-degree correlations and clustering. 
 
-## Geometric networks
+### Geometric networks
 In most networks, we can interpret the vertices as lyng in a geometric space. For example, internet users may have a two-dimensional position. But in social media networks, you can interpret the position of a person as its interests, location and so on. 
 In most applications, vertices that are close, are more likely to connect. I am interested in investigating such geometric networks from a mathematical point of view. Can we quantify the robustness of the internet? And how can we get the geometric coordinates from the network structure?

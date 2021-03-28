@@ -21,6 +21,8 @@ Education
 
 Selection of recent presentations
 ----
+* KTH Probability seminar, KTH Royal Institute of Technology, 2021
+* DIEP seminar, Dutch Institute for Emergent Phenomena, 2021
 * Heavy Tails workshop, Eurandom, Eindhoven University of Technology, 2019
 * Workshop on Algorithms and Models for the Web graph 2018, Moscow Institute of Physics and Technology, 2018
 * Groningen Stochastics Seminar, Groningen University, 2018
@@ -37,6 +39,7 @@ Grants and awards
   
 Other activities
 ----
+ * Editor of the `Nieuw archief voor Wiskunde' column '[Proof by example](http://www.nieuwarchief.nl/serie5/pdf/naw5-2021-22-1-031.pdf)' together with Francesca Arici
  * 2019 Organization of the YEP XV workshop [Information diffusion on random networks](https://www.eurandom.tue.nl/event/yep-xv-information-diffusion-on-random-networks)
  * 2016-2019 One of the KNAW `[Faces of Science](https://www.nemokennislink.nl/facesofscience/wetenschappers/clara-stegehuis/)'
  
